@@ -1,39 +1,60 @@
-<h2 align="left">Hi 👋! My name is Ata and I'm a developer, from Türkiye</h2>
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=f4a460&height=200&section=header&text=ATATURKCU&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
-###
+<img src="https://raw.githubusercontent.com/gist/TheAdich/e8bf59d5336cd3c45bc0c3def78f4c49/raw/f611a7aceb293cd9364a269cba21f0d55e1056d2/windows98.gif" width="100%">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ataturkcu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ataturkcu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# 🕹️ Welcome to My Retro Workspace 🕹️
 
-###
+[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://yourwebsite.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourusername)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/yourusername)
 
-<img align="right" height="150" src="https://cdn.glitch.global/c73f1514-7771-4851-b9f4-223ab4149302/Image_Editor.png?v=1736004083207"  />
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/computer.gif" width="200">
 
-###
+## 🎮 Tech Stack 🎮
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-</div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-###
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
-<div align="left">
-  <a href="https://www.youtube.com/@ata.turkcu"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
- <a href="https://www.instagram.com/atamturkcu"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-<a href="https://www.patreon.com/ataturkcu"><img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  /></a>
-</div>
+## 📊 Stats 📊
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=ataturkcu&show_icons=true&theme=synthwave" width="48%" align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ataturkcu&theme=synthwave" width="48%" align="right">
 
 <br clear="both">
+
+## 🕰️ Recent Projects 🕰️
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project 1</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/gist/TheAdich/e8bf59d5336cd3c45bc0c3def78f4c49/raw/f611a7aceb293cd9364a269cba21f0d55e1056d2/windows98.gif" width="100%">
+        <p>Your awesome project description</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project 2</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/gist/TheAdich/e8bf59d5336cd3c45bc0c3def78f4c49/raw/f611a7aceb293cd9364a269cba21f0d55e1056d2/windows98.gif" width="100%">
+        <p>Another cool project description</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 🌟 Activity 🌟
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ataturkcu&theme=synthwave" width="100%">
+
+<img src="https://raw.githubusercontent.com/gist/TheAdich/e8bf59d5336cd3c45bc0c3def78f4c49/raw/f611a7aceb293cd9364a269cba21f0d55e1056d2/windows98.gif" width="100%">
+
+<h3>🎵 Now Playing 🎵</h3>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=natemoo-re" width="300">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=f4a460&height=100&section=footer)
+
+</div>
