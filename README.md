@@ -1,14 +1,12 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=f4a460&height=200&section=header&text=Ata%TÜRKÇÜ&fontSize=70&fontColor=ffffff&animation=fadeIn)
-
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=f4a460&height=200&section=header&text=Welcome!&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
 # 🕹️ Welcome to My Workspace 🕹️
 
-[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://yourwebsite.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourusername)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/yourusername)
+[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/YouTube-0077B5?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@linuxbetter)
+[<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/atamturkcu)
 
 ## 🎮 Tech Stack 🎮
 
