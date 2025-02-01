@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=f4a460&height=200&section=header&text=ATATURKCU&fontSize=70&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=f4a460&height=200&section=header&text=Ata%TÜRKÇÜ&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%">
 
@@ -9,8 +9,6 @@
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://yourwebsite.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourusername)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/yourusername)
-
-<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="200">
 
 ## 🎮 Tech Stack 🎮
 
@@ -49,9 +47,6 @@
 ## 🌟 Activity 🌟
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ataturkcu&theme=synthwave" width="100%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%">
-
 <h3>🎵 Now Playing 🎵</h3>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ji2idtouadzghic5i2radgi2fm&cover_image=true&theme=natemoo-re" width="300">
 
