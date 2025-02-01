@@ -23,27 +23,6 @@
 
 <br clear="both">
 
-## 🕰️ Recent Projects 🕰️
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Solar Browser</h3>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/193412188?s=64&v=4" width="100%">
-        <p>Fast, light and innovative web browser.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Oslivion</h3>
-      <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/194981560?s=64&v=4" width="100%">
-        <p>Custom Windows Desktop Environment that fully customizable.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
 ## 🌟 Activity 🌟
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ataturkcu&theme=synthwave" width="100%">
