@@ -18,8 +18,8 @@
 
 ## 📊 Stats 📊
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ataturkcu&show_icons=true&theme=synthwave" width="48%" align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ataturkcu&theme=synthwave" width="48%" align="right">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ataturkcu&show_icons=true&theme=synthwave" width="45%" align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ataturkcu&theme=synthwave" width="45%" align="right">
 
 <br clear="both">
 
@@ -30,14 +30,14 @@
     <td width="50%">
       <h3 align="center">Solar Browser</h3>
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
+        <img src="https://avatars.githubusercontent.com/u/193412188?s=64&v=4" width="100%">
         <p>Fast, light and innovative web browser.</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">Oslivion</h3>
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%">
+        <img src="https://avatars.githubusercontent.com/u/194981560?s=64&v=4" width="100%">
         <p>Custom Windows Desktop Environment that fully customizable.</p>
       </div>
     </td>
