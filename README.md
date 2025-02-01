@@ -7,6 +7,7 @@
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=user&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/YouTube-0077B5?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@linuxbetter)
 [<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/atamturkcu)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:atamturkcu@gmail.com)
 
 ## 🎮 Tech Stack 🎮
 
@@ -29,7 +30,7 @@
 
 <h3>🎵 Now Playing 🎵</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ji2idtouadzghic5i2radgi2fm&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ji2idtouadzghic5i2radgi2fm&cover_image=true&theme=default&show_offline=true&background_color=121212" alt="Spotify Now Playing" width="300">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=f4a460&height=100&section=footer)
 
