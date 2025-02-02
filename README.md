@@ -26,7 +26,7 @@
 
 ## 🌟 Activity 🌟
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ataturkcu&theme=tokyonight" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ataturkcu&theme=tokyo-night" width="100%">
 
 <h3>🎵 Now Playing 🎵</h3>
 
