@@ -19,14 +19,14 @@
 
 ## 📊 Stats 📊
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ataturkcu&show_icons=true&theme=tokyonight-duo" width="45%" align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ataturkcu&theme=tokyonight-duo" width="45%" align="right">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ataturkcu&show_icons=true&theme=tokyonight" width="45%" align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ataturkcu&theme=tokyonight" width="45%" align="right">
 
 <br clear="both">
 
 ## 🌟 Activity 🌟
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ataturkcu&theme=tokyonight-duo" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ataturkcu&theme=tokyonight" width="100%">
 
 <h3>🎵 Now Playing 🎵</h3>
 
