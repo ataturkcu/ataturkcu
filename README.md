@@ -2,14 +2,14 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=f4a460&height=200&section=header&text=Welcome!&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
-# 🕹️ Contact & Social Media🕹️
+# Contact & Social Media
 
 [<img src="https://img.shields.io/badge/About Me-FF5722?style=for-the-badge&logo=user&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/YouTube-0077B5?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@linuxbetter)
 [<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/atamturkcu)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:atamturkcu@gmail.com)
 
-## 🎮 Languages I use 🎮
+## Languages I use
 
 <img src="https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
