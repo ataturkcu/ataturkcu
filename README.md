@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=d6ba1a&height=200&section=header&text=Welcome!&fontSize=70&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=11a4ed&height=200&section=header&text=Welcome!&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
 # Contact & Social Media
 
@@ -32,6 +32,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ji2idtouadzghic5i2radgi2fm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=d6ba1a&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=11a4ed&height=100&section=footer)
 
 </div>
