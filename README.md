@@ -20,9 +20,7 @@
 ## 📊 Stats 📊
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ataturkcu&show_icons=true&theme=tokyonight" width="45%" align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ataturkcu&theme=tokyonight" width="45%" align="right">
-
-<br clear="both">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ataturkcu&theme=tokyonight&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## 🌟 Activity 🌟
 
