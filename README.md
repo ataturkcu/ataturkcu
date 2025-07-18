@@ -2,9 +2,9 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=699ae9&height=200&section=header&text=Welcome!&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
-# Contact & Social Media
+# Contact 
 
-no contact
+ata@vertexishere.com
 
 ## Languages I use
 
