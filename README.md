@@ -27,7 +27,7 @@
 <img src="https://raw.githubusercontent.com/ataturkcu/ataturkcu/refs/heads/main/assets/kizlari.png" alt="My Vibe" height="180px" align="left" hspace="20">
 <div align="center">
   <a href="https://open.spotify.com/user/" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ji2idtouadzghic5i2radgi2fm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false&width=500" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ji2idtouadzghic5i2radgi2fm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false&width=700" alt="Spotify Now Playing" />
   </a>
 </div>
 
