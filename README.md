@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ataturkcu/ataturkcu/refs/heads/main/assets/koreli.png" alt="Welcome Image" height="120px" align="right" hspace="20">
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Welcome!+I+am+Ata+Türkçü;Lead+of+the+Solar++Project" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=Welcome!+I+am+Ata+Türkçü;Lead+of+the+Solar++Project" alt="Typing SVG" />
 </div>
 
 <br clear="all">
