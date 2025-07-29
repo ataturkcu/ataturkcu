@@ -1,6 +1,10 @@
 <div style="display: flex; align-items: center;">
-  <div style="flex-grow: 1; text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome!+I+am+Ata+Türkçü;Lead+of+the+Solar++Project" alt="Typing SVG" />
+  <div style="flex-grow: 1; text-align: center; min-width: 0;">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Welcome!+I+am+Ata+Türkçü;Lead+of+the+Solar++Project" 
+      alt="Typing SVG" 
+      style="max-width: 100%;"
+    />
   </div>
   <div>
     <img src="https://raw.githubusercontent.com/ataturkcu/ataturkcu/refs/heads/main/assets/koreli.png" alt="Welcome Image" height="120px" hspace="20">
