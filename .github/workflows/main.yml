@@ -1,0 +1,38 @@
+# Yılan Animasyonu Oluşturma İş Akışı
+name: Generate Snake Animation
+
+on:
+  # Bu Action'ın her gün gece yarısı otomatik olarak çalışmasını sağlar
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Bu Action'ı manuel olarak da çalıştırabilmeni sağlar
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Adım: Yılan SVG dosyalarını oluşturur
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          # GitHub kullanıcı adını otomatik olarak alır
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Oluşturulacak SVG dosyaları (hem aydınlık hem karanlık mod için)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # Repoya yazma izni için gerekli olan token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Adım: Oluşturulan dosyaları 'output' adında bir branch'e gönderir
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
