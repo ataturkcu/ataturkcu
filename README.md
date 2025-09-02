@@ -20,7 +20,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,ts,js,flutter,dart,&perline=5" alt="My Skills" />
 </p>
-
 <br clear="all">
 <hr>
 
