@@ -18,7 +18,7 @@
 <h3>🛠️ My Tech Toolbox</h3>
 <p align="justify">Here are some of the tools and technologies I enjoy working with. I'm always eager to learn more and expand my skillset.</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,ts,js,flutter,dart,csharp,&perline=3" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,ts,js,flutter,dart,csharp&perline=3" alt="My Skills" />
 </p>
 <br clear="all">
 <hr>
