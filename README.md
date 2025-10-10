@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/ataturkcu/ataturkcu/refs/heads/main/assets/seviyorum.png" alt="Your Name" height="150px" align="left" hspace="20">
 <h3>👋 About Me</h3>
-<p align="justify">Hey there! I'm a high school student and indie developer from Türkiye. Right now, I'm developing my own browser from scratch, yes, including a custom JavaScript engine! I'm a big fan of Nintendo, passionate about East Asian culture, and love creating things that feel truly mine.
+<p align="justify">Hey there! I'm a high school student and indie developer from Türkiye. Right now, I'm developing my own browser from scratch, yes, including a custom JavaScript engine! I'm a big fan of Nintendo, passionate about East Asian culture, and love creating things that feel truly mine. More here: ataturkcu.me
 </p>
 
 <br clear="all">
